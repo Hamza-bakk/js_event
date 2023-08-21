@@ -1,0 +1,8 @@
+.reduced-card .card-img-top {
+    width: 20%;
+  }
+  
+  .reduced-card .card-text {
+    display: none;
+  }
+  
